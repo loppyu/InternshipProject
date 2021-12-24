@@ -1,0 +1,15 @@
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Internship.Data.deps.json
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Internship.Data.runtimeconfig.json
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Internship.Data.runtimeconfig.dev.json
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Internship.Data.dll
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Internship.Data.pdb
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Intenship.Domain.dll
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\bin\Debug\netcoreapp3.1\Intenship.Domain.pdb
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.csprojAssemblyReference.cache
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.csproj.CoreCompileInputs.cache
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.AssemblyInfoInputs.cache
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.AssemblyInfo.cs
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.csproj.CopyComplete
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.dll
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.pdb
+C:\Users\Uroš\source\repos\Internship.API\Internship.Data\obj\Debug\netcoreapp3.1\Internship.Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\bin\Debug\netcoreapp3.1\Intenship.Domain.deps.json
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\bin\Debug\netcoreapp3.1\Intenship.Domain.runtimeconfig.json
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\bin\Debug\netcoreapp3.1\Intenship.Domain.runtimeconfig.dev.json
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\bin\Debug\netcoreapp3.1\Intenship.Domain.dll
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\bin\Debug\netcoreapp3.1\Intenship.Domain.pdb
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.AssemblyInfoInputs.cache
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.AssemblyInfo.cs
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.dll
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.pdb
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.genruntimeconfig.cache
+C:\Users\Uroš\source\repos\Internship.API\Intenship.Domain\obj\Debug\netcoreapp3.1\Intenship.Domain.csprojAssemblyReference.cache
