@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhzeiwFsHyFoJMPgLFE+YXRoOqMkt9B4V//pX0sSfx2wJxMFvdpCoS0QoFi8FqWJrF+FZTZxX8jYIcnB5b7ScA==",
+  "dgSpecHash": "UUXYR3+iNsC9fN0/t1iNKIVBVQ/eUcDQC49n4SfaKXYqud05apbvj5sIzzuZRTVqZ98o1M+EPd3HFPvzIT60Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.API\\Internship.API.csproj",
+  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.API\\Internship.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uroš\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Uroš\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

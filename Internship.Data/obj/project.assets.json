@@ -6077,11 +6077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.Data\\Internship.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.Data\\Internship.Data.csproj",
       "projectName": "Internship.Data",
-      "projectPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.Data\\Internship.Data.csproj",
+      "projectPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.Data\\Internship.Data.csproj",
       "packagesPath": "C:\\Users\\Uroš\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.Data\\obj\\",
+      "outputPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Uroš\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6097,8 +6097,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj": {
-              "projectPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj"
+            "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj": {
+              "projectPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj"
             }
           }
         }

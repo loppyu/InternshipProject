@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj": {}
+    "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj": {
+    "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj",
         "projectName": "Intenship.Domain",
-        "projectPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\Intenship.Domain.csproj",
+        "projectPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\Intenship.Domain.csproj",
         "packagesPath": "C:\\Users\\Uroš\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Intenship.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Intenship.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uroš\\AppData\\Roaming\\NuGet\\NuGet.Config",

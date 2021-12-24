@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\XUnitTest.csproj": {}
+    "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\XUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\XUnitTest.csproj": {
+    "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\XUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\XUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\XUnitTest.csproj",
         "projectName": "XUnitTest",
-        "projectPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\XUnitTest.csproj",
+        "projectPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\XUnitTest.csproj",
         "packagesPath": "C:\\Users\\Uroš\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uroš\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PqsSbU0G8+jeqN35Rns8MR00QRWNEjoHCh/iA+bqnaFU4geoAcm0dL/gK9ZuUHF9GcGHEAqNOwQZdkXmS5eWOw==",
+  "dgSpecHash": "VfEZMAwNRvn2SzclF4EyqKkEXgR6W3Xercn+8UDQqV9WRZuKTD8XyyrXP6/o/v2/iIqC/WRZnX+IQVLIvXzlPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.Business\\Internship.Business.csproj",
+  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.Business\\Internship.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uroš\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Uroš\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

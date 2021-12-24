@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IFQNeia7monEZb21Jk7/WTC6SbVkFYAG8v6EcoJZ5bB2Dx77IYyQywJrkoDXlrdeMalmktwys+685zLGuTlFdQ==",
+  "dgSpecHash": "HgFqKw/uaq+FVrjk7uchGK7EyAL7Ou7K6DWXB7xEGkVBjnyIL3Ok5Cp6oqrpkEMuxQscpNzcd3U1ClHAf2Ts/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\Internship.Data\\Internship.Data.csproj",
+  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\Internship.Data\\Internship.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uroš\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Uroš\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

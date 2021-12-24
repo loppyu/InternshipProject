@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tjwsBQ6KjMSfRG1NNAQrpWN03sL8Q1gNXCs13dprrjankCMJyaS3vcOUSxsf0zL+Z8XyvAYbY2/Xgda7zSsBWA==",
+  "dgSpecHash": "JtQpo6APR4IqL19Kpy4hRiiETXG5MtXa12au1rFCA7hy1AAJO/bjLBMizYtVAdZ9vFZivygcnARIcb7B7z+VAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\Internship.API\\XUnitTest\\XUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Uroš\\source\\repos\\InternshipProject\\XUnitTest\\XUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Uroš\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Uroš\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
