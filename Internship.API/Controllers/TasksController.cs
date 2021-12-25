@@ -39,10 +39,11 @@ namespace Internship.API.Controllers
         {
             return await _business.DeleteTask(id);
         }
-        [HttpPut]
-        public async Task<IEnumerable<Intenship.Domain.Models.Task>> UpdateTask(Intenship.Domain.Models.Task request)
+        [HttpPut("{id}")]
+        public async Task<IEnumerable<Intenship.Domain.Models.Task>> UpdateTask([FromBody] Intenship.Domain.Models.Task request, int id)
         {
-            return await _business.UpdateTask(request); ;
+            request.Id = id;
+            return await _business.UpdateTask(request); 
         }
     }
 }

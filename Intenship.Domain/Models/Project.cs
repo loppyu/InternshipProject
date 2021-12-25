@@ -5,7 +5,7 @@ namespace Intenship.Domain.Models
 {
     public class Project
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime CompletionDate { get; set; }
         public CurentStatus CurrentStatus { get; set; }

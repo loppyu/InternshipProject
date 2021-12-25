@@ -20,14 +20,14 @@ namespace Internship.Data.Repositories
         public async Task<IEnumerable<Project>> CreateProject(Project project)
         {
             var numberOfProjects = _context.Projects.CountAsync();
-            project.id = numberOfProjects.Id + 1;
+            project.Id = numberOfProjects.Id + 1;
             _context.Projects.Add(project);
             return _context.Projects; 
         }
 
         public async Task<IEnumerable<Project>> DeleteProject(int id)
         {
-            var project = _context.Projects.Find(p=>p.Id==id);
+            var project = _context.Projects.Find(id);
             _context.Projects.Remove(project);
             return await _context.Projects.ToListAsync();
         }
@@ -36,7 +36,7 @@ namespace Internship.Data.Repositories
 
         public async Task<IEnumerable<Project>> UpdateProject(Project request)
         {
-            var project = _context.Projects.Find(p => p.Id == request.Id);
+            var project = _context.Projects.Find(request.Id);
             project.StartDate = request.StartDate;
             project.CompletionDate = request.CompletionDate;
             project.CurrentStatus = request.CurrentStatus;
